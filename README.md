@@ -189,20 +189,18 @@ These principles apply across all 30 skills:
 
 ---
 
-## Contributing
-
-Contributions are welcome. To add or improve a skill:
-
-1. Keep the same folder pattern: `NN-style-name/style-name-{instructions,code,code-react-tailwind}/SKILL.md`.
-2. Keep the YAML frontmatter with `name` and `description`. The description should say when the skill applies.
-3. Write both instructions and code in English.
-4. Make code examples self-contained and accessible, and respect `prefers-reduced-motion`.
-5. Test code examples before submitting a pull request, and state how you tested them.
-
-Please open an issue first for large changes, such as adding a new style or restructuring the folders.
 
 ---
 
 ## License
 
-Add your chosen license here (for example MIT) and include a `LICENSE` file at the root of the repository.
+Copyright (c) 2026 alexandrekambamba393-source
+
+Copyright (c) 2026 Alexandre Kambamba. All rights reserved.
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to download and use the Software for personal or internal use, subject to the following conditions:
+
+The Software may NOT be modified, altered, translated, or adapted in any way.
+The Software may NOT be used to create derivative works.
+Redistribution or sublicensing of modified versions of the Software is strictly prohibited.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
